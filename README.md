@@ -44,7 +44,3 @@ A modern, responsive landing page for ElonStonk - an AI-powered crypto insights 
 ## Preview
 
 To preview the landing page, simply open the `index.html` file in any modern web browser.
-
-## License
-
-This project is available for personal and commercial use.
